@@ -1,4 +1,3 @@
-# Resume-Forge
 # 🚀 ResumeForge — Professional Resume Builder
 
 Build professional, ATS-friendly resumes in minutes with live preview, resume scoring, and one-click PDF export.
