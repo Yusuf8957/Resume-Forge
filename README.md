@@ -1,18 +1,26 @@
 # Resume-Forge
 # 🚀 ResumeForge — Professional Resume Builder
 
-Build a professional, ATS-friendly resume in minutes with live preview, resume scoring, and one-click PDF export.
+Build professional, ATS-friendly resumes in minutes with live preview, resume scoring, and one-click PDF export.
 
-## 🌟 Features
+## 🌐 Live Demo
 
-* ⚡ Real-time resume preview
-* 📄 One-click PDF download
-* 📊 Resume score with improvement suggestions
-* ➕ Add / Remove Experience, Education, Skills, and Projects dynamically
-* 🎨 Clean and modern UI
-* 📱 Fully responsive design
-* 📝 ATS-friendly resume format
-* 🚀 Fast and lightweight application
+**Website:** https://resume-forge-three.vercel.app
+
+**GitHub Repository:** https://github.com/Yusuf8957/Resume-Forge
+
+---
+
+## ✨ Features
+
+* ⚡ Live Resume Preview
+* 📄 One-Click PDF Download
+* 📊 Resume Score & Suggestions
+* ➕ Dynamic Experience, Education & Projects Sections
+* 🏷️ Skills Management
+* 📱 Fully Responsive Design
+* 🎨 Modern Dark-Themed UI
+* 📝 ATS-Friendly Resume Layout
 
 ---
 
@@ -42,16 +50,12 @@ Build a professional, ATS-friendly resume in minutes with live preview, resume s
 
 ## 📂 Project Structure
 
-```bash
+```text
 resume-builder/
 ├── client/
 │   ├── src/
-│   │   ├── components/
-│   │   ├── hooks/
-│   │   ├── pages/
-│   │   ├── styles/
-│   │   └── utils/
-│   └── package.json
+│   ├── package.json
+│   └── vite.config.js
 │
 ├── server/
 │   ├── src/
@@ -71,7 +75,7 @@ git clone https://github.com/Yusuf8957/Resume-Forge.git
 cd Resume-Forge
 ```
 
-### Frontend Setup
+### Frontend
 
 ```bash
 cd client
@@ -79,15 +83,13 @@ npm install
 npm run dev
 ```
 
-Frontend runs at:
+Runs at:
 
-```bash
+```text
 http://localhost:5173
 ```
 
-### Backend Setup
-
-Open another terminal:
+### Backend
 
 ```bash
 cd server
@@ -95,9 +97,9 @@ npm install
 npm run dev
 ```
 
-Backend runs at:
+Runs at:
 
-```bash
+```text
 http://localhost:3001
 ```
 
@@ -105,24 +107,10 @@ http://localhost:3001
 
 ## 🎯 How It Works
 
-1. Fill in your personal and professional details.
-2. Watch your resume update instantly in the live preview.
-3. Improve your resume using the score suggestions.
-4. Export your resume as a professional PDF.
-
----
-
-## 📸 Screenshots
-
-Add screenshots of your application here after deployment.
-
----
-
-## 🌐 Live Demo
-
-Frontend: Coming Soon
-
-Backend API: Coming Soon
+1. Enter your personal and professional details.
+2. View live updates in the resume preview panel.
+3. Improve your resume using score suggestions.
+4. Export a professional PDF with one click.
 
 ---
 
@@ -137,4 +125,4 @@ Backend API: Coming Soon
 
 ## 📄 License
 
-This project is developed for educational and portfolio purposes.
+This project was created for learning, portfolio, and developer assessment purposes.
